@@ -6,7 +6,7 @@ This is the **backend server** for a full-stack polling system built with **Node
 ## Deployed Links
 
 - 👉 [Frontend Live URL](https://polling-system-ui.netlify.app/)
-- 🌐 [Backend API](https://password-reset-flow-server-0ne8.onrender.com)
+- 🌐 [Backend API](https://polling-system-backend-8q7m.onrender.com)
   
 ----
 
