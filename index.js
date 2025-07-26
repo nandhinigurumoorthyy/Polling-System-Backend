@@ -19,7 +19,7 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-  origin: 'https://polling-system-ui.netlify.app/',
+  origin: 'https://polling-system-ui.netlify.app',
   methods: ["POST", "GET", "DELETE", "PUT"],
   credentials: true,
   allowedHeaders: ["Content-Type", "Authorization"],
